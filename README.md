@@ -184,6 +184,31 @@ Example: A tutorial on assembling a product is clearer with labeled diagrams or 
 Why It Works: People remember visual instructions better than written explanations.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+##Flowcharts – Best for Processes & Workflows
+
+Use when: Explaining a step-by-step process, decision-making paths, or system workflows.
+
+Example: A flowchart showing how a user request moves through a web server.
+
+
+2. Diagrams – Best for System Architecture & Structures
+
+Use when: Showing the relationships between components in a system.
+
+Example: A network diagram illustrating how devices connect to a server.
+
+
+3. Infographics – Best for Summarizing Data & Concepts
+
+Use when: Presenting key statistics, comparisons, or simplified explanations.
+
+Example: A cybersecurity infographic showing common hacking methods.
+
+
+4. Charts & Graphs – Best for Data & Trends
+
+Use when: Displaying numerical data, trends over time, or comparisons.
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
